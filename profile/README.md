@@ -11,3 +11,4 @@
 - [TikTok](https://www.tiktok.com/@exurasgame)
 - [Instagram](https://www.instagram.com/exurasgame)
 - [YouTube](https://www.youtube.com/@ExurasGame)
+- [X / Twitter](https://x.com/ExurasGame)
