@@ -3,7 +3,7 @@
 
 🧙 Change Logs [Markdown](https://github.com/Exuras/changelogs)
 
-👩‍💻 Support [email]: mailto:support@exuras.com
+👩‍💻 Support [email] mailto:support@exuras.com
 
 🌈 Social
 [LinkedIn]: https://www.linkedin.com/company/exurasgame
