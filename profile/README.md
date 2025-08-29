@@ -6,7 +6,7 @@ Slay your first Dragon! Defeat your next Enemy — an MMORPG. Join now: [exuras.
 
 👩‍💻  [Support email](mailto:support@exuras.com)
 
-🌈 Social
+🌐 Social
 - [LinkedIn](https://www.linkedin.com/company/exurasgame)
 - [Reddit](https://www.reddit.com/r/ExurasGame/)
 - [TikTok](https://www.tiktok.com/@exurasgame)
