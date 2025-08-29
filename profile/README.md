@@ -1,4 +1,5 @@
 ## Hi there 👋
+Slay your first Dragon! Kill your next Enemy — an MMORPG. Join now: exuras.com
 ### Welcome to Exuras development
 
 🧙  [Change logs](https://github.com/Exuras/changelogs)
